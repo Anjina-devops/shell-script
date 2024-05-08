@@ -4,12 +4,12 @@
 
 echo "Please enter the username  :"
 
-read USERNAME
+read -s USERNAME
 
 echo "Your enter username is  :$USERNAME"
 
 echo "Please enter the password  :"
 
-read PASSWORD
+read -s PASSWORD
 
  echo "Your entered password is  :$PASSWORD"
