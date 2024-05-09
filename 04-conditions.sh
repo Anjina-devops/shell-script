@@ -4,7 +4,7 @@
 num=$1
 
 if[$num -gt 100]
-then 
+than 
      echo "$num is greaterthen 100"
 else
      echo "$num is Lessthen 100"
