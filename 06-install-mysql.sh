@@ -7,7 +7,7 @@ then
     exit 1
 fi
 # it is our responsible to check installation is success or not
-yum install myssql -y
+yum install mysql -y
 
 if [ $? -ne 0 ]
 then
